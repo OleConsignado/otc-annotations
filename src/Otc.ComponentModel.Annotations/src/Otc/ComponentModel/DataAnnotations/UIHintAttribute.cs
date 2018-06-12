@@ -2,12 +2,13 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
 using System.Linq;
 
-namespace System.ComponentModel.DataAnnotations
+namespace Otc.ComponentModel.DataAnnotations
 {
     /// <summary>
     ///     Attribute to provide a hint to the presentation layer about what control it should use

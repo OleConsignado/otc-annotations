@@ -2,7 +2,8 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
-namespace System.ComponentModel.DataAnnotations
+using System;
+namespace Otc.ComponentModel.DataAnnotations
 {
     /// <summary>
     ///     Indicates whether the consumer of a field or property, such as a client application,

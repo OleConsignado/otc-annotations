@@ -2,14 +2,15 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+using System;
 using System.Globalization;
 
-namespace System.ComponentModel.DataAnnotations
+namespace Otc.ComponentModel.DataAnnotations
 {
     /// <summary>
     ///     Allows for clarification of the <see cref="DataType" /> represented by a given
-    ///     property (such as <see cref="System.ComponentModel.DataAnnotations.DataType.PhoneNumber" />
-    ///     or <see cref="System.ComponentModel.DataAnnotations.DataType.Url" />)
+    ///     property (such as <see cref="Otc.ComponentModel.DataAnnotations.DataType.PhoneNumber" />
+    ///     or <see cref="Otc.ComponentModel.DataAnnotations.DataType.Url" />)
     /// </summary>
     [AttributeUsage(
         AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Method | AttributeTargets.Parameter,

@@ -3,9 +3,10 @@
 // See the LICENSE file in the project root for more information.
 
 using System;
+using System;
 using Xunit;
 
-namespace System.ComponentModel.DataAnnotations.Schema
+namespace Otc.ComponentModel.DataAnnotations.Schema
 {
     public class ForeignKeyAttributeTests
     {

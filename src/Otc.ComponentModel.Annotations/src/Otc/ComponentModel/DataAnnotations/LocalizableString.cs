@@ -2,14 +2,15 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+using System;
 using System.Globalization;
 using System.Reflection;
 
-namespace System.ComponentModel.DataAnnotations
+namespace Otc.ComponentModel.DataAnnotations
 {
     /// <summary>
     ///     A helper class for providing a localizable string property.
-    ///     This class is currently compiled in both System.Web.dll and System.ComponentModel.DataAnnotations.dll.
+    ///     This class is currently compiled in both System.Web.dll and Otc.ComponentModel.DataAnnotations.dll.
     /// </summary>
     internal class LocalizableString
     {
