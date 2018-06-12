@@ -4,7 +4,7 @@ namespace Otc
 {
     internal static partial class SR
     {
-        internal static System.Type ResourceType { get; } = typeof(SR);
+        internal static System.Type ResourceType { get; } = typeof(Otc.ComponentModel.Annotations.Resources.Strings);
     }
 
     internal static partial class SR
