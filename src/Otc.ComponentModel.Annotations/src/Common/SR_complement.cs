@@ -1,4 +1,10 @@
-﻿// Adaptacao de arquivos gerados
+// These sources have been forked from https://github.com/dotnet/corefx/releases/tag/v1.1.8
+// then customized by Ole Consignado in order to meet it needs.
+// Original sources should be found at: https://github.com/dotnet/corefx/tree/v1.1.8/src/System.ComponentModel.Annotations
+// Thanks to Microsoft for making it open source!
+
+﻿// Generated from corefx build
+// ResourceType was adapted to load local resource
 
 namespace Otc
 {
