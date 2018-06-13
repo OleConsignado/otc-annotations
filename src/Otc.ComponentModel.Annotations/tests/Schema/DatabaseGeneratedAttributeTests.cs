@@ -8,7 +8,6 @@
 // See the LICENSE file in the project root for more information.
 
 using System;
-using System;
 using Xunit;
 
 namespace Otc.ComponentModel.DataAnnotations.Schema
